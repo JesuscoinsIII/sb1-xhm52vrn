@@ -71,7 +71,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For more information or support, please reach out to us:
 - **Website**: [NFVNetwork.xyz](https://nfvnetwork.xyz)
-- **Email**: support@nfvnetwork.xyz
+- **Email**: ryan@nfvnetwork.xyz
 - **Twitter**: [@NFVNetwork](https://twitter.com/NFVNetwork)
 
 ---
