@@ -25,10 +25,10 @@ const Header = () => {
           </nav>
 
           <div className="hidden md:flex items-center space-x-4">
-            <a href="#" className="text-gray-300 hover:text-green-400">
+            <a href="https://github.com/JesuscoinsIII/sb1-xhm52vrn" className="text-gray-300 hover:text-green-400">
               <Github className="w-5 h-5" />
             </a>
-            <a href="#" className="text-gray-300 hover:text-green-400">
+            <a href="https://x.com/nfvnetwork" className="text-gray-300 hover:text-green-400">
               <Twitter className="w-5 h-5" />
             </a>
           </div>
