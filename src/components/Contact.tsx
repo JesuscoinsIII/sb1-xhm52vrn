@@ -20,7 +20,7 @@ const Contact = () => {
             {
               icon: <Mail className="w-6 h-6" />,
               title: 'Email',
-              info: 'contact@nfvnetwork.xyz',
+              info: 'ryan@nfvnetwork.xyz',
             },
             {
               icon: <MapPin className="w-6 h-6" />,
