@@ -13,9 +13,9 @@ const Footer = () => {
 
           <div className="flex space-x-6">
             {[
-              { icon: <Github className="w-5 h-5" />, href: '#' },
-              { icon: <Twitter className="w-5 h-5" />, href: '#' },
-              { icon: <Linkedin className="w-5 h-5" />, href: '#' },
+              { icon: <Github className="w-5 h-5" />, href: 'https://github.com/JesuscoinsIII/sb1-xhm52vrn' },
+              { icon: <Twitter className="w-5 h-5" />, href: 'https://x.com/nfvnetwork' },
+              { icon: <Linkedin className="w-5 h-5" />, href: 'https://www.linkedin.com/in/jesuscoins/' },
             ].map((item, index) => (
               <a
                 key={index}
