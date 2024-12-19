@@ -42,7 +42,7 @@ const Register = () => {
               Fill out our volunteer registration form to get started on your journey with NFV Network.
             </p>
             <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLSeSWCqvqwrCqOaOpsnVrX-06k42PTYvqBt71u5U7ciqYby5eA/viewform?usp=sharing"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdvrJRqtPTGf19kVgXDypwuZkYj7s79uekQ6P0PjmBDqyVQgg/viewform?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="block w-full text-center px-8 py-4 text-lg font-semibold text-black bg-green-400 rounded-lg hover:bg-green-500 transition-colors"
